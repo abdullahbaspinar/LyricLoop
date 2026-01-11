@@ -176,48 +176,12 @@ To add a new song:
        ]
    )
    ```
-
-## 🎯 Future Enhancements
-
-- [ ] Multiplayer mode
-- [ ] Social features and leaderboards
-- [ ] More songs and genres
-- [ ] Custom difficulty settings
-- [ ] Offline mode
-- [ ] Dark/Light theme toggle
-- [ ] Localization support
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
-**Abdullah B**
+**Abdullah Başpınar**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
 
-## 🙏 Acknowledgments
-
-- Built with SwiftUI and modern iOS development practices
-- Inspired by language learning through music
-- Uses SF Symbols for native iOS iconography
-
----
-
-<div align="center">
-  Made with ❤️ using SwiftUI
-</div>
+--
 
 
 # LyricLoop
